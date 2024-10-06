@@ -36,9 +36,9 @@ The dataset used in this analysis contains the following columns:
 To run this project, clone the repository and install the required packages:
 
 ```
-git clone https://github.com/yourusername/US-Medical-Insurance-Costs.git
+git clone https://github.com/darshankhunt/US-medical-insurance-costs.git
 
-cd US-Medical-Insurance-Costs
+cd US-medical-insurance-costs
 
 pip install -r requirements.txt
 ```
